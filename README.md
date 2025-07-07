@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/charris-msft-chat-mode-creator-mcp-badge.png)](https://mseep.ai/app/charris-msft-chat-mode-creator-mcp)
+
 # 🎯 Chat Mode Creator MCP Server
 
 An advanced MCP (Model Context Protocol) server that creates custom VS Code chat modes AND custom prompts for specialized development workflows.
